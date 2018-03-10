@@ -1,13 +1,13 @@
 import React, { Component } from 'react';
 
-class Home extends Component {
+class VideoPlayer extends Component {
     render() {
         return (
             <div>
-                this is home
+                this is VideoPlayer
             </div>
         );
     }
 }
 
-export default Home;
+export default VideoPlayer;
